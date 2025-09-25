@@ -19,8 +19,8 @@ You can check your progress against these milestones if you would like some guid
 
 1. Have you created an HTML file to live serve? - done
 2. Is the HTML file connected to a JS file? - done
-3. Can you prompt the user for froyo flavors and store their input?
-4. Can you parse the user input into an array of froyo flavors?
+3. Can you prompt the user for froyo flavors and store their input? - done
+4. Can you parse the user input into an array of froyo flavors? - done
 5. Can you build an object to track which flavors you have counted so far?
 6. How should that object be updated as you iterate through the array of flavors?
 7. Are you using functions to organize your code?
